@@ -11,9 +11,9 @@ draw = function(){
  
   background(255,255,255,0);
   
-
-
-
+ellipse(291,227,40,50); //roach-bdy
+ellipse(291,243,30,20); // roach-neck-ish
+ellipse(291,255,20,10);// roach-head
 
 
 
